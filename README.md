@@ -5,7 +5,7 @@ src/
 │
 ├── config/
 │   └── db.js                # Database connection
-│
+│   └── env.js               # Env Variables
 ├── controllers/
 │   └── auth.controller.js  # Handles request/response
 │
